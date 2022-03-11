@@ -5,6 +5,7 @@
     <ResourceID>spase://CNES/NumericalData/CDPP-Archive/ISEE3/ICE/3D_Radio_Sources/ISEE3_ICE_RADIO_3D_SOURCES</ResourceID>
     <ResourceHeader>
       <ResourceName>ISEE3/ICE Radio Astronomy : 3-D Radio Sources (30 - 1980 kHz)</ResourceName>
+      <DOI>https://doi.org/10.24400/802406/dt5d-27ak</DOI>
       <ReleaseDate>2022-02-04T16:23:25Z</ReleaseDate>
       <Description>This data set contains the power spectral density from ISEE3 ICE instrument (S and Z receivers, 30 - 1980 kHz frequency range)</Description>
       <Contact>

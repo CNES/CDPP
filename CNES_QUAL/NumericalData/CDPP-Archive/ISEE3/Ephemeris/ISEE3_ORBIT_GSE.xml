@@ -5,6 +5,7 @@
     <ResourceID>spase://CNES/NumericalData/CDPP-Archive/ISEE3/Ephemeris/ISEE3_ORBIT_GSE</ResourceID>
     <ResourceHeader>
       <ResourceName>ISEE3 orbit data (GSE frame, 1 min resolution)</ResourceName>
+      <DOI>https://doi.org/10.24400/802406/psep-17ag</DOI>
       <ReleaseDate>2022-02-04T16:23:25Z</ReleaseDate>
       <Description>This data set contains the ISEE3 GSE  position and velocity  at 1 min resolution.</Description>
       <Contact>
