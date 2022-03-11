@@ -5,6 +5,7 @@
     <ResourceID>spase://CNES/NumericalData/CDPP-Archive/DEMETER/IMSC/DMT_N1_1135</ResourceID>
     <ResourceHeader>
       <ResourceName>DMT_N1_1135 : IMSC - Waveform of the ELF Magnetic Field (3 components)</ResourceName>
+      <DOI>https://doi.org/10.24400/802406/gsp3-na8s</DOI>
       <ReleaseDate>2021-11-02T16:27:08Z</ReleaseDate>
       <Description>This data set contains DEMETER IMSC (magnetic field experiment) - Waveform of the ELF Magnetic Field (3 components, frequency range 15Hz - 1kHz)</Description>
       <Acknowledgement>

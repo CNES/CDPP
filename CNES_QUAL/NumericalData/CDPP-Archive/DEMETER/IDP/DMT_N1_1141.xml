@@ -5,6 +5,7 @@
     <ResourceID>spase://CNES/NumericalData/CDPP-Archive/DEMETER/IDP/DMT_N1_1141</ResourceID>
     <ResourceHeader>
       <ResourceName>DMT_N1_1141 : IDP - Energetic Electron Flux (Spectra) in Burst Mode</ResourceName>
+      <DOI>https://doi.org/10.24400/802406/ev0y-rdvp</DOI>
       <ReleaseDate>2021-11-02T16:27:09Z</ReleaseDate>
       <Description>This data set contains DEMETER IDP (electron spectrometer) Energetic Electron Flux (Spectra) in Burst Mode</Description>
       <Acknowledgement>

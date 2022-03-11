@@ -5,6 +5,7 @@
     <ResourceID>spase://CNES/NumericalData/CDPP-Archive/DEMETER/Auxiliary/DEMETER_SUMMARY_FILES</ResourceID>
     <ResourceHeader>
       <ResourceName>DEMETER Science mode summary</ResourceName>
+      <DOI>https://doi.org/10.24400/802406/rtmt-m9e7</DOI>
       <ReleaseDate>2022-02-16T16:36:20Z</ReleaseDate>
       <Description>The summary files give, per APID (Application Process IDentifier) from 1129 to 1144 (i.e. per data type), the start and the end times of the scientific modes for each Demeter orbit.
 The filename is of the type DMT_SUMMARY_APID_aaaa_start_orbit_end_orbit_start_time_end_time where aaaa is the APID number from 1129 to 1144.

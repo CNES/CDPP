@@ -5,6 +5,7 @@
     <ResourceID>spase://CNES/NumericalData/CDPP-Archive/DEMETER/ICE/DMT_N1_1129</ResourceID>
     <ResourceHeader>
       <ResourceName>DMT_N1_1129 : ICE - Waveform of the ULF Electric Field (3 components)</ResourceName>
+      <DOI>https://doi.org/10.24400/802406/v1dp-rvz8</DOI>
       <ReleaseDate>2021-11-02T16:27:08Z</ReleaseDate>
       <Description>This data set contains DEMETER ICE (electric field experiment) waveform of the ULF Electric Field (3 components,   frequency range 0-15 Hz)</Description>
       <Acknowledgement>

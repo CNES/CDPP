@@ -5,6 +5,7 @@
     <ResourceID>spase://CNES/NumericalData/CDPP-Archive/DEMETER/ISL/DMT_N1_1143</ResourceID>
     <ResourceHeader>
       <ResourceName>DMT_N1_1143 : ISL - Langmuir Probe Results (Plasma Parameters) in Burst Mode</ResourceName>
+      <DOI>https://doi.org/10.24400/802406/4x9d-fe2r</DOI>
       <ReleaseDate>2021-11-02T16:27:09Z</ReleaseDate>
       <Description>This data set contains DEMETER ISL  Langmuir Probe Results (Plasma Parameters) in Burst Mode</Description>
       <Acknowledgement>
