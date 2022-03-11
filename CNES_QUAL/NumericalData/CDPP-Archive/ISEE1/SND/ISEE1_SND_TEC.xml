@@ -5,6 +5,7 @@
     <ResourceID>spase://CNES/NumericalData/CDPP-Archive/ISEE1/SND/ISEE1_SND_TEC</ResourceID>
     <ResourceHeader>
       <ResourceName>ISEE1 Resonance Sounder Technological Parameters (CDF)</ResourceName>
+      <DOI>https://doi.org/10.24400/802406/sxf8-9dk7</DOI>
       <ReleaseDate>2022-02-04T16:22:02Z</ReleaseDate>
       <Description>This data set contains  all technical parameters used for the operation of the ISEE1 SND resonance sounder  instrument and downlinked through the telemetry for each recorded spectrum.</Description>
       <Acknowledgement>

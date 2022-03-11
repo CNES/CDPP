@@ -5,6 +5,7 @@
     <ResourceID>spase://CNES/NumericalData/CDPP-Archive/ISEE1/Ephemeris/ISEE1_ORBIT_GSE</ResourceID>
     <ResourceHeader>
       <ResourceName>ISEE1 orbit data (GSE frame, 1 min resolution)</ResourceName>
+      <DOI>https://doi.org/10.24400/802406/z5bt-c037</DOI>
       <ReleaseDate>2022-02-17T16:06:54Z</ReleaseDate>
       <Description>ISEE 1 and 2 Orbit data description
 
