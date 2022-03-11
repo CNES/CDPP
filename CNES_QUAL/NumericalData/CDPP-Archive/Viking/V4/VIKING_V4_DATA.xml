@@ -5,6 +5,7 @@
     <ResourceID>spase://CNES/NumericalData/CDPP-Archive/Viking/V4/VIKING_V4_DATA</ResourceID>
     <ResourceHeader>
       <ResourceName>VIKING V4 : E and B Waves and Plasma Density (V4L/V4H)</ResourceName>
+      <DOI>https://doi.org/10.24400/802406/x3ew-7drn</DOI>
       <ReleaseDate>2022-01-13T16:03:49Z</ReleaseDate>
       <Description>This data set contains electric and magnetic  fields and plasma density from the VIKING V4 waves experiment.
 

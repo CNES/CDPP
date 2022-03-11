@@ -5,6 +5,7 @@
     <ResourceID>spase://CNES/NumericalData/CDPP-Archive/Viking/Ephemeris/VIKING_ORBITE</ResourceID>
     <ResourceHeader>
       <ResourceName>VIKING : Orbit Data and Geomagnetic Parameters</ResourceName>
+      <DOI>https://doi.org/10.24400/802406/jew5-1pe2</DOI>
       <ReleaseDate>2022-01-13T16:03:50Z</ReleaseDate>
       <Description>This data set contains  GSE and GEI positions and geomagnetic parameters of  Viking.</Description>
       <Contact>
