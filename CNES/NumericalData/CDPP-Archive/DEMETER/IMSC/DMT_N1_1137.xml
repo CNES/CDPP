@@ -5,6 +5,7 @@
     <ResourceID>spase://CNES/NumericalData/CDPP-Archive/DEMETER/IMSC/DMT_N1_1137</ResourceID>
     <ResourceHeader>
       <ResourceName>DMT_N1_1137 : IMSC - Power Spectra of the VLF Magnetic Field (1 component)</ResourceName>
+      <DOI>https://doi.org/10.24400/802406/k3np-6px9</DOI>
       <ReleaseDate>2021-11-02T16:27:08Z</ReleaseDate>
       <Description>This data set contains DEMETER IMSC (magnetic field experiment) - Spectra of the VLF Magnetic Field  (1 component, frequency range 15Hz - 1kHz)</Description>
       <Acknowledgement>

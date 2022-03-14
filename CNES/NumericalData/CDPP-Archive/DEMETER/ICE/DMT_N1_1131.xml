@@ -5,6 +5,7 @@
     <ResourceID>spase://CNES/NumericalData/CDPP-Archive/DEMETER/ICE/DMT_N1_1131</ResourceID>
     <ResourceHeader>
       <ResourceName>DMT_N1_1131 : ICE - Waveform of the VLF Electric Field (1 component)</ResourceName>
+      <DOI>https://doi.org/10.24400/802406/6252-7ph7</DOI>
       <ReleaseDate>2021-11-02T16:27:08Z</ReleaseDate>
       <Description>This data set contains DEMETER ICE (electric field experiment) waveform of the VLF Electric Field (1 component,   frequency range 15 Hz-17.4 kHz)</Description>
       <Acknowledgement>

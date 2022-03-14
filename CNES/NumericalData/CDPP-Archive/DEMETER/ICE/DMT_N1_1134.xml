@@ -5,6 +5,7 @@
     <ResourceID>spase://CNES/NumericalData/CDPP-Archive/DEMETER/ICE/DMT_N1_1134</ResourceID>
     <ResourceHeader>
       <ResourceName>DMT_N1_1134 : ICE - Power Spectra of the HF Electric Field (1 component)</ResourceName>
+      <DOI>https://doi.org/10.24400/802406/4wam-7pdy</DOI>
       <ReleaseDate>2021-11-02T16:27:08Z</ReleaseDate>
       <Description>This data set contains DEMETER ICE (electric field experiment) Power Spectra of the HF Electric Field (1 component,   frequency range  10 kHz-3.175 MHz)</Description>
       <Acknowledgement>

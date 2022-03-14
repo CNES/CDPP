@@ -5,6 +5,7 @@
     <ResourceID>spase://CNES/NumericalData/CDPP-Archive/DEMETER/ICE/DMT_N1_1132</ResourceID>
     <ResourceHeader>
       <ResourceName>DMT_N1_1132 : ICE - Power Spectra of the VLF Electric Field (1 component)</ResourceName>
+      <DOI>https://doi.org/10.24400/802406/dsxb-y4yc</DOI>
       <ReleaseDate>2021-11-02T16:27:08Z</ReleaseDate>
       <Description>This data set contains DEMETER ICE (electric field experiment) Power Spectra of the VLF Electric Field (1 component,   frequency range  15 Hz-17.4 kHz)</Description>
       <Acknowledgement>

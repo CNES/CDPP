@@ -5,6 +5,7 @@
     <ResourceID>spase://CNES/NumericalData/CDPP-Archive/DEMETER/IAP/DMT_N1_1139</ResourceID>
     <ResourceHeader>
       <ResourceName>DMT_N1_1139 : IAP - Characteristics of Low Energy Ions in Burst Mode</ResourceName>
+      <DOI>https://doi.org/10.24400/802406/knnm-y2j0</DOI>
       <ReleaseDate>2021-11-02T16:27:09Z</ReleaseDate>
       <Description>This data set contains DEMETER IAP (thermal plasma analyzer) Characteristics of Low Energy Ions in Burst Mode</Description>
       <Acknowledgement>
