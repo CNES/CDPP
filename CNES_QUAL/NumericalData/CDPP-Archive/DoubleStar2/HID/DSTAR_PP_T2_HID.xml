@@ -5,6 +5,7 @@
     <ResourceID>spase://CNES/NumericalData/CDPP-Archive/DoubleStar2/HID/DSTAR_PP_T2_HID</ResourceID>
     <ResourceHeader>
       <ResourceName>Double Star 2 HID Prime Parameters</ResourceName>
+      <DOI>https://doi.org/10.24400/802406/2p75-g44d</DOI>
       <ReleaseDate>2021-11-02T15:44:51Z</ReleaseDate>
       <Description>The Double Star  Hot Ion Detector (HID) instruments are located on both the equatorial and polar satellites. They measure measure alpha-particles in the energy range 12 – 350 MeV in 4 channels (12-50 MeV, 50-130 MeV, 130-220 MeV, 220-350 MeV, and some heavier ions with larger atomic mass numbers from Li to Fe (mass 26) in 6 channels.
 

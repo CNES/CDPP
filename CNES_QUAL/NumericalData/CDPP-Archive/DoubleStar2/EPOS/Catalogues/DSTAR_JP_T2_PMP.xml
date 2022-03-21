@@ -5,6 +5,7 @@
     <ResourceID>spase://CNES/NumericalData/CDPP-Archive/DoubleStar2/EPOS/Catalogues/DSTAR_JP_T2_PMP</ResourceID>
     <ResourceHeader>
       <ResourceName>Double Star 2 EPOS Catalogues Predicted Magnetic Position</ResourceName>
+      <DOI>https://doi.org/10.24400/802406/7tr1-v4cv</DOI>
       <ReleaseDate>2021-11-02T15:44:52Z</ReleaseDate>
       <Description>This data set contains the predicted invariant latitude, magnetic local time, L-value and magnetic field strength at five minute intervals for the Double Star 2 spacecraft. The data are provided  by the European Payload Operations Service (EPOS).</Description>
       <Acknowledgement>

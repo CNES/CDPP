@@ -5,6 +5,7 @@
     <ResourceID>spase://CNES/NumericalData/CDPP-Archive/DoubleStar2/LFEW/DSTAR_PP_T2_LFE</ResourceID>
     <ResourceHeader>
       <ResourceName>Double Star 2 LFEW Prime Parameters</ResourceName>
+      <DOI>https://doi.org/10.24400/802406/21fg-hb5h</DOI>
       <ReleaseDate>2021-11-02T15:44:52Z</ReleaseDate>
       <Description>The Low Frequency Electromagnetic Wave Detector (LFEW) is a search-coil type three-component electromagnetic wave detector, with a frequency range from 8 Hz to 10 kHz in three frequency segments (8－100 Hz, 100－1000 Hz, and 1－10 kHz). It is designed to measure low frequency magnetic waves in different regions of the magnetosphere.
 

@@ -5,6 +5,7 @@
     <ResourceID>spase://CNES/NumericalData/CDPP-Archive/DoubleStar2/FGM/DSTAR_PP_T2_FGM</ResourceID>
     <ResourceHeader>
       <ResourceName>Double Star 2 FGM Prime Parameters</ResourceName>
+      <DOI>https://doi.org/10.24400/802406/n05h-mvay</DOI>
       <ReleaseDate>2021-11-02T15:44:50Z</ReleaseDate>
       <Description>The Double Star 2 Flux Gate Magnetometer (FGM) summary parameter data set contains various parameters in GSE coordinates at 1 min resolution. These parameters include  the instrument status, the magnetic field vector in GSE coordinates, and the magnetic field variances.</Description>
       <Contact>
