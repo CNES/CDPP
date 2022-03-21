@@ -5,6 +5,7 @@
     <ResourceID>spase://CNES/NumericalData/CDPP-Archive/THEMIS-D/SCM/THEMIS_SCM_THD_L2_FFT</ResourceID>
     <ResourceHeader>
       <ResourceName>THEMIS-D SCM Level-2 Onboard Power Spectral Density (CDF)</ResourceName>
+      <DOI>https://doi.org/10.24400/802406/3zeg-9bms</DOI>
       <ReleaseDate>2022-01-21T08:24:17Z</ReleaseDate>
       <Description>This dataset contains the calibrated  power spectral density (computed on board) of electric and magnetic  fields from the Electric Field Instrument (EFI) and the Search Coil Magnetometer (SCM) on board THEMIS-D.</Description>
       <Acknowledgement>
