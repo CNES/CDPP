@@ -5,6 +5,7 @@
     <ResourceID>spase://CNES/NumericalData/CDPP-Archive/DoubleStar1/EPOS/Catalogues/DSTAR_JP_T1_PSE</ResourceID>
     <ResourceHeader>
       <ResourceName>Double Star 1 EPOS Catalogues Predicted Scientific Events</ResourceName>
+      <DOI>https://doi.org/10.24400/802406/pbmh-bk67</DOI>
       <ReleaseDate>2021-11-02T15:44:52Z</ReleaseDate>
       <Description>This data set contains the predicted times and GSE positions of specific scientific events for the Double Star 1 spacecraft provided by the European Payload Operations Service (EPOS). It also contains the predicted orbit and orbit phase, the magnetic local time and the GSM latitude at the times of those events.</Description>
       <Acknowledgement>

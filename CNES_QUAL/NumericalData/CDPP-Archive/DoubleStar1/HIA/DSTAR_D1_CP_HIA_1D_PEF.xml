@@ -5,6 +5,7 @@
     <ResourceID>spase://CNES/NumericalData/CDPP-Archive/DoubleStar1/HIA/DSTAR_D1_CP_HIA_1D_PEF</ResourceID>
     <ResourceHeader>
       <ResourceName>Double-Star 1 HIA Ion Omni-directional Fluxes</ResourceName>
+      <DOI>https://doi.org/10.24400/802406/y2rb-g3th</DOI>
       <ReleaseDate>2021-11-02T15:44:51Z</ReleaseDate>
       <Description>This dataset contains DOUBLE STAR HIA Ion omni-directional fluxes, for spacecraft TC1. Data are in Particle Energy Flux units.</Description>
       <Acknowledgement>

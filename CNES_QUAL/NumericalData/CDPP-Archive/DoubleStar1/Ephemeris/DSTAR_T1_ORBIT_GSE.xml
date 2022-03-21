@@ -5,6 +5,7 @@
     <ResourceID>spase://CNES/NumericalData/CDPP-Archive/DoubleStar1/Ephemeris/DSTAR_T1_ORBIT_GSE</ResourceID>
     <ResourceHeader>
       <ResourceName>Double Star 1 Orbit data (GSE frame, 1 min resolution)</ResourceName>
+      <DOI>https://doi.org/10.24400/802406/3656-50f3</DOI>
       <ReleaseDate>2021-11-02T15:44:52Z</ReleaseDate>
       <Description>This data set contains Double Star 1 GSE position and velocity at 1 min resolution</Description>
       <Contact>

@@ -5,6 +5,7 @@
     <ResourceID>spase://CNES/NumericalData/CDPP-Archive/DoubleStar1/Ephemeris/DSTAR_SP_T1_AUX</ResourceID>
     <ResourceHeader>
       <ResourceName>Double Star 1 Auxiliary Data (Summary Parameters)</ResourceName>
+      <DOI>https://doi.org/10.24400/802406/gmvy-4bgx</DOI>
       <ReleaseDate>2021-11-02T15:44:50Z</ReleaseDate>
       <Description>This data set  contains DoubleStar 1 auxiliary data summary parameters.</Description>
       <Contact>

@@ -5,6 +5,7 @@
     <ResourceID>spase://CNES/NumericalData/CDPP-Archive/DoubleStar1/EPOS/Catalogues/DSTAR_JP_T1_PMP</ResourceID>
     <ResourceHeader>
       <ResourceName>Double Star 1 EPOS Catalogues Predicted Magnetic Position</ResourceName>
+      <DOI>https://doi.org/10.24400/802406/9abn-k3mz</DOI>
       <ReleaseDate>2021-11-02T15:44:52Z</ReleaseDate>
       <Description>This data set contains the predicted invariant latitude, magnetic local time, L-value and magnetic field strength at five minute intervals for the Double Star 1 spacecraft. The data are provided  by the European Payload Operations Service (EPOS).</Description>
       <Acknowledgement>

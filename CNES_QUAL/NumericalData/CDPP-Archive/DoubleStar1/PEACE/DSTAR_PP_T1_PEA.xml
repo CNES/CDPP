@@ -5,6 +5,7 @@
     <ResourceID>spase://CNES/NumericalData/CDPP-Archive/DoubleStar1/PEACE/DSTAR_PP_T1_PEA</ResourceID>
     <ResourceHeader>
       <ResourceName>Double Star 1 PEACE Prime Parameters</ResourceName>
+      <DOI>https://doi.org/10.24400/802406/0j3s-t7mg</DOI>
       <ReleaseDate>2021-11-02T15:44:52Z</ReleaseDate>
       <Description>The PEACE electron analyser provides  the electron velocity distribution function at the satellite in three dimensions with good time, energy, and angular resolution for electron energies up to ~25 keV.
 
