@@ -5,6 +5,7 @@
     <ResourceID>spase://CNES/NumericalData/CDPP-Archive/THEMIS-B/SCM/THEMIS_SCM_THB_L1_SCW</ResourceID>
     <ResourceHeader>
       <ResourceName>THEMIS-B SCM Search Coil Magnetometer Wave Burst Level-1 (CDF)</ResourceName>
+      <DOI>https://doi.org/10.24400/802406/zc39-m1t1</DOI>
       <ReleaseDate>2022-01-21T08:24:17Z</ReleaseDate>
       <Description>This data set contains THEMIS-B Search Coil Magnetometer raw magnetic field in sensor coordinates, ADC units, Wave Burst Mode.</Description>
       <Acknowledgement>

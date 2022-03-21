@@ -5,6 +5,7 @@
     <ResourceID>spase://CNES/NumericalData/CDPP-Archive/THEMIS-B/SCM/THEMIS_SCM_THB_L2_FB</ResourceID>
     <ResourceHeader>
       <ResourceName>THEMIS-B SCM Filter Bank Level-2 (CDF)</ResourceName>
+      <DOI>https://doi.org/10.24400/802406/vzfh-a2cy</DOI>
       <ReleaseDate>2022-01-21T08:24:17Z</ReleaseDate>
       <Description>This dataset contains digitally computed Filter Bank spectra and E12 peak and average in HF band from the   Search Coil Magnetometer (SCM) and the  Electric Field Instrument (EFI) on board THEMIS-B.</Description>
       <Acknowledgement>

@@ -5,6 +5,7 @@
     <ResourceID>spase://CNES/NumericalData/CDPP-Archive/THEMIS-B/Ephemeris/THB_ORBIT_GSE</ResourceID>
     <ResourceHeader>
       <ResourceName>THEMIS-B orbit data (GSE frame, 1 min resolution)</ResourceName>
+      <DOI>https://doi.org/10.24400/802406/gejn-ak79</DOI>
       <ReleaseDate>2022-01-21T08:24:18Z</ReleaseDate>
       <Description>This data set contains THEMIS-B GSE position and velocity  at 1 min resolution.</Description>
       <Contact>
