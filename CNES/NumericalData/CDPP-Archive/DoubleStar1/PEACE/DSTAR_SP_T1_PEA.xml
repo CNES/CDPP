@@ -5,7 +5,8 @@
     <ResourceID>spase://CNES/NumericalData/CDPP-Archive/DoubleStar1/PEACE/DSTAR_SP_T1_PEA</ResourceID>
     <ResourceHeader>
       <ResourceName>Double Star 1 PEACE Summary Parameters</ResourceName>
-      <ReleaseDate>2021-10-07T15:26:50Z</ReleaseDate>
+      <DOI>https://doi.org/10.24400/802406/eq7z-xc9b</DOI>
+      <ReleaseDate>2021-11-02T15:44:52Z</ReleaseDate>
       <Description>The  Plasma Electron and Current Experiment (PEACE)  provides  the electron velocity distribution function at the satellite in three dimensions with good time, energy, and angular resolution for electron energies up to ~25 keV.
 
 This data set contains  Double Star 1 PEACE summary  parameters at 1 min  resolution including  the instrument status, the electron density, electron bulk velocity, electron temperature, and electron heat flux.</Description>

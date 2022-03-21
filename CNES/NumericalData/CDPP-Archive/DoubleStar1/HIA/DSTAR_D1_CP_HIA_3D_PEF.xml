@@ -5,6 +5,7 @@
     <ResourceID>spase://CNES/NumericalData/CDPP-Archive/DoubleStar1/HIA/DSTAR_D1_CP_HIA_3D_PEF</ResourceID>
     <ResourceHeader>
       <ResourceName>Double-Star 1 HIA Ion Distribution - Particle Energy Flux</ResourceName>
+      <DOI>https://doi.org/10.24400/802406/yp34-pvp1</DOI>
       <ReleaseDate>2021-11-02T15:44:51Z</ReleaseDate>
       <Description>This dataset contains 3D Ion distributions in particle energy flux units from the HIA instrument on the DOUBLE STAR TC1 spacecraft</Description>
       <Acknowledgement>

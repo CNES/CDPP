@@ -5,7 +5,8 @@
     <ResourceID>spase://CNES/NumericalData/CDPP-Archive/DoubleStar1/ASPOC/DSTAR_SP_T1_ASP</ResourceID>
     <ResourceHeader>
       <ResourceName>Double Star 1 ASPOC Summary Parameters</ResourceName>
-      <ReleaseDate>2021-10-07T15:26:48Z</ReleaseDate>
+      <DOI>https://doi.org/10.24400/802406/10rq-ha8r</DOI>
+      <ReleaseDate>2021-11-02T15:44:50Z</ReleaseDate>
       <Description>This data set contains the DoubleStar 1 ASPOC summary  parameters</Description>
       <Contact>
         <PersonID>spase://CNES/Person/CDPP-Archive/Torkar.Klaus</PersonID>
