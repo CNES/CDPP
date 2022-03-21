@@ -5,6 +5,7 @@
     <ResourceID>spase://CNES/NumericalData/CDPP-Archive/THEMIS-C/SCM/THEMIS_SCM_THC_L2_SCM</ResourceID>
     <ResourceHeader>
       <ResourceName>THEMIS-C SCM Search Coil Magnetometer Level-2 (CDF)</ResourceName>
+      <DOI>https://doi.org/10.24400/802406/fmv7-wc40</DOI>
       <ReleaseDate>2022-01-21T08:24:17Z</ReleaseDate>
       <Description>This dataset contains calibrated THEMIS-C SCM (Search Coil Magnetometer) magnetic field in  FAST SURVEY, PARTICLE BURST and WAVE BURST modes.
 
