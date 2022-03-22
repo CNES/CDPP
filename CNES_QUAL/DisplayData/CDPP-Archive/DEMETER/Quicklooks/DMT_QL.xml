@@ -5,6 +5,7 @@
     <ResourceID>spase://CNES/DisplayData/CDPP-Archive/DEMETER/Quicklooks/DMT_QL</ResourceID>
     <ResourceHeader>
       <ResourceName>Demeter QuickLooks (Postscript)</ResourceName>
+      <DOI>https://doi.org/10.24400/802406/k5se-yczz</DOI>
       <ReleaseDate>2021-11-03T11:32:33Z</ReleaseDate>
       <Description>DEMETER Quicklooks present data of all the science experiments. 
 It represents half-orbit data with a low time resolution. 

@@ -5,6 +5,7 @@
     <ResourceID>spase://CNES/DisplayData/CDPP-Archive/DEMETER/ICE/DMT_ICE_VLF_SURVEY_SPECTROGRAM</ResourceID>
     <ResourceHeader>
       <ResourceName>Spectrogram of the VLF EField (1-8kHz, 1 component, Postscript)</ResourceName>
+      <DOI>https://doi.org/10.24400/802406/4g35-bapa</DOI>
       <ReleaseDate>2021-11-03T11:32:33Z</ReleaseDate>
       <Description>Spectrogram of the VLF EField (1-8kHz, 1 component, Postscript) in survey mode</Description>
       <Acknowledgement>
