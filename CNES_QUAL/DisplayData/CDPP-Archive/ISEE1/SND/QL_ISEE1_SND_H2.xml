@@ -5,6 +5,7 @@
     <ResourceID>spase://CNES/DisplayData/CDPP-Archive/ISEE1/SND/QL_ISEE1_SND_H2</ResourceID>
     <ResourceHeader>
       <ResourceName>ISEE1 Resonance Sounder Quicklook (PNG)</ResourceName>
+      <DOI>https://doi.org/10.24400/802406/x2qc-agqn</DOI>
       <ReleaseDate>2022-02-18T11:19:47Z</ReleaseDate>
       <Description>The data files from this dataset contain reconstructed calibrated wave spectra and the ancillary parameters necessary for their interpretation.
 Each record has a fixed content of 128 frequency steps and key ancillary parameters.
