@@ -27,7 +27,7 @@
       <Format>CEF</Format>
     </AccessInformation>
     <ProcessingLevel>Calibrated</ProcessingLevel>
-    <InstrumentID>spase://CNES/Instrument/CDPP-Archive/</InstrumentID>
+    <InstrumentID>spase://CNES/Instrument/CDPP-Archive/Cluster-1/WHISPER</InstrumentID>
     <MeasurementType>ElectricField</MeasurementType>
     <MeasurementType>Waves.Passive</MeasurementType>
     <MeasurementType>Waves.Active</MeasurementType>

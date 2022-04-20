@@ -39,7 +39,7 @@ The central ion detector head has been badly hit by sunlight. For details on thi
       <Format>CDF</Format>
     </AccessInformation>
     <ProcessingLevel>Calibrated</ProcessingLevel>
-    <InstrumentID>spase://CNES/Instrument/CDPP-Archive/Cluster-3/RAPID</InstrumentID>
+    <InstrumentID>spase://CNES/Instrument/CDPP-Archive/Cluster-4/RAPID</InstrumentID>
     <MeasurementType>EnergeticParticles</MeasurementType>
     <TemporalDescription>
       <TimeSpan>

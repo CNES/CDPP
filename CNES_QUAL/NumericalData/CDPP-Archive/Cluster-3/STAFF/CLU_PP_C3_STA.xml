@@ -33,6 +33,7 @@ In burst mode both STAFF and EFW measure the waveform to 180 Hz, and the onboard
       <Format>CDF</Format>
     </AccessInformation>
     <ProcessingLevel>Calibrated</ProcessingLevel>
+	<InstrumentID>spase://CNES/Instrument/CDPP-Archive/Cluster-3/STAFF</InstrumentID>
     <MeasurementType>ElectricField</MeasurementType>
     <MeasurementType>MagneticField</MeasurementType>
     <MeasurementType>Waves.Passive</MeasurementType>

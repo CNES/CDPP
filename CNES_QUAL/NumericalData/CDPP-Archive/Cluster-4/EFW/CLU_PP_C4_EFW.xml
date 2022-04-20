@@ -33,7 +33,7 @@ The operation of WHISPER in the active mode sometimes disturbs the EFW measureme
       <Format>CDF</Format>
     </AccessInformation>
     <ProcessingLevel>Calibrated</ProcessingLevel>
-    <InstrumentID>spase://CNES/Instrument/CDPP-Archive/</InstrumentID>
+    <InstrumentID>spase://CNES/Instrument/CDPP-Archive/Cluster-4/EFW</InstrumentID>
     <MeasurementType>ElectricField</MeasurementType>
     <MeasurementType>Waves.Passive</MeasurementType>
     <TemporalDescription>
