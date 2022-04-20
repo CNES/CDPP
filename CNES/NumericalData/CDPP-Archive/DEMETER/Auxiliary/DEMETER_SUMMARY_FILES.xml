@@ -27,7 +27,12 @@ Data in the records are separated by blanks.</Description>
       </AccessURL>
       <Format>Text.ASCII</Format>
     </AccessInformation>
-    <InstrumentID>spase://CNES/Instrument/CDPP-Archive/DEMETER/ICE DEMETER/IMSC DEMETER/RNF DEMETER/IAP DEMETER/IDP DEMETER/ISL</InstrumentID>
+      <InstrumentID>spase://CNES/Instrument/CDPP-Archive/DEMETER/ICE</InstrumentID>
+      <InstrumentID>spase://CNES/Instrument/CDPP-Archive/DEMETER/IMSC</InstrumentID>
+      <InstrumentID>spase://CNES/Instrument/CDPP-Archive/DEMETER/RNF</InstrumentID>
+      <InstrumentID>spase://CNES/Instrument/CDPP-Archive/DEMETER/IAP</InstrumentID>
+      <InstrumentID>spase://CNES/Instrument/CDPP-Archive/DEMETER/IDP</InstrumentID>
+      <InstrumentID>spase://CNES/Instrument/CDPP-Archive/DEMETER/ISL</InstrumentID>
     <MeasurementType>InstrumentStatus</MeasurementType>
     <TemporalDescription>
       <TimeSpan>
