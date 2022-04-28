@@ -5,8 +5,11 @@
     <ResourceID>spase://CNES/Observatory/CDPP-Archive/Interball-Auroral</ResourceID>
     <ResourceHeader>
       <ResourceName>Interball-Auroral</ResourceName>
-      <ReleaseDate>2021-10-08T10:47:08Z</ReleaseDate>
-      <Description>Interball Auroral Probe : On-board Experiments
+      <ReleaseDate>2022-04-28T17:46:51Z</ReleaseDate>
+      <Description>The AURORAL PROBE with its subsatellite was launched on 29 August 1996, also to the 65 degrees inclination orbit, but with the apogee of 20 000 km above the northern auroral zone and polar cap.
+Two different auroral imagers are installed on the Auroral probe main satellite. These imagers are aimed to provide the two-dimensional global patterns of auroral phenomena and their time development. This allows to place in situ measurements from the two probes in the global geophysical perspective of large-scale magnetospheric processes.
+
+Interball Auroral Probe : On-board Experiments
 
 PLASMA
 

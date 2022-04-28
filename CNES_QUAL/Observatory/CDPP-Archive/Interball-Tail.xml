@@ -5,8 +5,10 @@
     <ResourceID>spase://CNES/Observatory/CDPP-Archive/Interball-Tail</ResourceID>
     <ResourceHeader>
       <ResourceName>Interball-Tail</ResourceName>
-      <ReleaseDate>2021-10-08T10:47:08Z</ReleaseDate>
-      <Description>Interball Tail Probe : On-board Experiments
+      <ReleaseDate>2022-04-28T17:46:51Z</ReleaseDate>
+      <Description>The TAIL PROBE with its subsatellite was launched on 3 August 1995 to the elongated elliptical orbit with the inclination of 65 degrees and apogee of 200 000 km. These satellites study the interactions of the Solar Wind with the Magnetopause and the outer regions of the magnetosphere. Specific aims is to study the active plasma processes within the tail where powerful currents, substorms and other large-scale non-linear magnetospheric phenomena originate. The separation in this pair will change from less than 100 km, allowing to study the small-scale wave and plasma structures at the boundaries, till about 1-2 RE (the Earth's radii) to study large plasma structures in the tail. 
+
+Interball Tail Probe : On-board Experiments
 
 PLASMA
 
@@ -17,7 +19,7 @@ O.VAISBERG, A.LEIBOV, L.AVANOV, IKI Moscow Russia
 
 ELECTRON
 3-D measurements of the electron component of the plasma (10 eV - 26 keV)
-J.A.SAUVAUD, CESR Toulouse France - O.VAISBERG, N.BORODKOVA, IKI Moscow, Russia
+J.A.SAUVAUD, CESR Toulouse France  - O.VAISBERG, N.BORODKOVA, IKI Moscow, Russia
 
 PROMICS-3
 Ion composition (M = 1-32) and 3-D energy distribution (0.01-30 ke V/Q)
@@ -52,7 +54,7 @@ S.KLIMOV, S.ROMANOV IKI, Moscow, Russia
 OPERA
 Three-component electric field fluctuations in the range 0-50 kHz including spectral analysis. 
 FGM-1 magnetic field data acquisition and processing.
-E.AMATA CNR/IFSI, Frascati, Italy - S.SAVIN IKI, Moscow, Russia - R.GRARD SSD/ESTEC, ESA - J.L.RAUCH LPCE, Orleans, France
+E.AMATA CNR/IFSI, Frascati, Italy - S.SAVIN IKI, Moscow, Russia - R.GRARD SSD/ESTEC, ESA - J.L.RAUCH LPCE (now LPC2E), Orleans, France
 
 MIF-M
 DC/AC magnetic field, 3 components, 0-64 Hz, 1 component, 1 Hz - 40 kHz. Data are processed for SSNI by PRAM.
