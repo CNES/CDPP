@@ -5,7 +5,7 @@
     <ResourceID>spase://CNES/Observatory/CDPP-Archive/PHOBOS-2</ResourceID>
     <ResourceHeader>
       <ResourceName>PHOBOS-2</ResourceName>
-      <ReleaseDate>2022-05-03T15:30:29Z</ReleaseDate>
+      <ReleaseDate>2022-05-04T17:00:17Z</ReleaseDate>
       <Description>Phobos 2, and its companion spacecraft Phobos 1, were the next generation in the Venera-type planetary missions, succeeding those last used during the Vega 1 and Vega 2 missions to comet P/Halley. The objectives of the Phobos missions were to:
 
 1) Conduct studies of the interplanetary environment
@@ -26,6 +26,7 @@ Phobos 2 operated nominally throughout its cruise and Mars orbital insertion pha
         <Role>GeneralContact</Role>
       </Contact>
     </ResourceHeader>
+    <ObservatoryGroupID>spase://CNES/Observatory/CDPP-Archive/PHOBOS</ObservatoryGroupID>
     <Location>
       <ObservatoryRegion>Mars</ObservatoryRegion>
       <ObservatoryRegion>Mars.Phobos</ObservatoryRegion>
