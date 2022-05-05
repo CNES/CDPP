@@ -48,6 +48,12 @@ for the provision of these data.
       <Format>Postscript</Format>
     </AccessInformation>
     <InstrumentID>spase://CNES/Instrument/CDPP-Archive/DEMETER/ICE</InstrumentID>
+    <InstrumentID>spase://CNES/Instrument/CDPP-Archive/DEMETER/IMSC</InstrumentID>
+    <InstrumentID>spase://CNES/Instrument/CDPP-Archive/DEMETER/RNF</InstrumentID>
+    <InstrumentID>spase://CNES/Instrument/CDPP-Archive/DEMETER/IDP</InstrumentID>
+    <InstrumentID>spase://CNES/Instrument/CDPP-Archive/DEMETER/IAP</InstrumentID>
+    <InstrumentID>spase://CNES/Instrument/CDPP-Archive/DEMETER/ISL</InstrumentID>
+    <InstrumentID>spase://CNES/Instrument/CDPP-Archive/DEMETER/Ephemeris</InstrumentID>	
     <MeasurementType>ElectricField</MeasurementType>
     <MeasurementType>MagneticField</MeasurementType>
     <MeasurementType>EnergeticParticles</MeasurementType>
