@@ -56,7 +56,7 @@ The WHISPER sounders operate on a duty cycle, so the electron density is sampled
       <Name>Cluster 2 WHISPER Electron Number Density</Name>
       <Description>Cluster 2 Prime Parameter Waves of HF and Sounder for Probing Electron Density by Relaxation electron number density derived from plasma frequency recognition at spin time resolution</Description>
       <Units>cm^-3</Units>
-      <UnitsConversion>1e-6&gt;m^-3</UnitsConversion>
+      <UnitsConversion>1e6&gt;m^-3</UnitsConversion>
       <Particle>
         <ParticleType>Electron</ParticleType>
         <Qualifier>Scalar</Qualifier>

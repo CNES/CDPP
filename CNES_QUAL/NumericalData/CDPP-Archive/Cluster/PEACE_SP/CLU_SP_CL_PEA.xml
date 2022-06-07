@@ -54,7 +54,7 @@ The PEACE Team are reconsidering their approach to provision of and validation o
       <Name>Cluster PEACE Summary Param Electron Number Density</Name>
       <Description>Cluster Summary Parameter Plasma Electron and Current Experiment electron number density at spin time resolution</Description>
       <Units>cm^-3</Units>
-      <UnitsConversion>1e-6&gt;m^-3</UnitsConversion>
+      <UnitsConversion>1e6&gt;m^-3</UnitsConversion>
       <Particle>
         <ParticleType>Electron</ParticleType>
         <Qualifier>Scalar</Qualifier>
