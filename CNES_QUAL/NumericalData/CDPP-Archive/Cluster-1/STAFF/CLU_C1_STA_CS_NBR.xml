@@ -47,6 +47,8 @@
     <Parameter>
       <Name>Cluster 1   STAFF Magnetic Field Complex Spectrum (0 - 12.5 Hz)</Name>
       <Description>Cluster 1  STAFF Components of the Magnetic Field Complex Spectrum (0 - 12.5 Hz)</Description>
+	  <Caveats>Data calibration is performed using a moving window of 256 points in NBR mode. This value was chosen as the best compromise for routine production.
+Data are filtered at 0.6Hz. All data below this value are not relevant and must not be used.</Caveats>
       <Units>nT</Units>
       <UnitsConversion>1.0e-9&gt;T</UnitsConversion>
       <CoordinateSystem>
