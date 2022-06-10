@@ -2,12 +2,12 @@
 <Spase xmlns="http://www.spase-group.org/data/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.spase-group.org/data/schema http://www.spase-group.org/data/schema/spase-2_4_0.xsd">
   <Version>2.4.0</Version>
   <NumericalData>
-    <ResourceID>spase://CNES/NumericalData/CDPP-Archive/Cluster-1/STAFF/CLU_C1_STA_CS_HBR</ResourceID>
+    <ResourceID>spase://CNES/NumericalData/CDPP-Archive/Cluster-2/STAFF/CLU_C2_STA_CS_NBR</ResourceID>
     <ResourceHeader>
-      <ResourceName>CLU1 STAFF-SC Magnetic Field Spectra in GSE (burst - up to 225Hz)</ResourceName>
-      <DOI>https://doi.org/10.24400/802406/hpn8-n3hg</DOI>
+      <ResourceName>CLU2 STAFF-SC Magnetic Field Spectra in GSE (up to 12.5Hz)</ResourceName>
+      <DOI>https://doi.org/10.24400/802406/yjeh-124m</DOI>
       <ReleaseDate>2022-03-14T12:16:41Z</ReleaseDate>
-      <Description>This dataset contains calibrated Complex Spectra of the magnetic field measured by STAFF-SC from 0.0 Hz to 224.90 Hz with a resolution of 0.109866 Hz x 9.10 s, in HBR mode on the Cluster C1 spacecraft.</Description>
+      <Description>This dataset contains calibrated Complex Spectra of the magnetic field measured by STAFF-SC from 0.00Hz to 12.40 Hz with a resolution of 0.097659 Hz x 10.24 s, in NBR mode on the Cluster C2 spacecraft.</Description>
       <Contact>
         <PersonID>spase://CNES/Person/CDPP-Archive/Patrick.Canu</PersonID>
         <Role>PrincipalInvestigator</Role>
@@ -23,7 +23,7 @@
       <Format>CEF</Format>
     </AccessInformation>
     <ProcessingLevel>Calibrated</ProcessingLevel>
-    <InstrumentID>spase://CNES/Instrument/CDPP-Archive/Cluster-1/STAFF</InstrumentID>
+    <InstrumentID>spase://CNES/Instrument/CDPP-Archive/Cluster-2/STAFF</InstrumentID>
     <MeasurementType>ElectricField</MeasurementType>
     <MeasurementType>MagneticField</MeasurementType>
     <MeasurementType>Waves.Passive</MeasurementType>
@@ -45,9 +45,9 @@
     <ObservedRegion>Earth.NearSurface.PolarCap</ObservedRegion>
     <ObservedRegion>Heliosphere.NearEarth</ObservedRegion>
     <Parameter>
-      <Name>Cluster 1   STAFF Magnetic Field Complex Spectrum (0 - 225 Hz)</Name>
-      <Description>Cluster 1  STAFF Components of the Magnetic Field Complex Spectrum (0 - 225 Hz)</Description>
-	  <Caveats>Data calibration is performed using a moving window of 4096 points in HBR mode. This value was chosen as the best compromise for routine production.
+      <Name>Cluster 2   STAFF Magnetic Field Complex Spectrum (0 - 12.5 Hz)</Name>
+      <Description>Cluster 2  STAFF Components of the Magnetic Field Complex Spectrum (0 - 12.5 Hz)</Description>
+	  <Caveats>Data calibration is performed using a moving window of 256 points in NBR mode. This value was chosen as the best compromise for routine production.
 Data are filtered at 0.6Hz. All data below this value are not relevant and must not be used.</Caveats>
       <Units>nT</Units>
       <UnitsConversion>1.0e-9&gt;T</UnitsConversion>
@@ -60,7 +60,7 @@ Data are filtered at 0.6Hz. All data below this value are not relevant and must 
         <FieldQuantity>Magnetic</FieldQuantity>
         <FrequencyRange>
           <Low>0</Low>
-          <High>225</High>
+          <High>12.5</High>
           <Units>Hz</Units>
         </FrequencyRange>
       </Field>

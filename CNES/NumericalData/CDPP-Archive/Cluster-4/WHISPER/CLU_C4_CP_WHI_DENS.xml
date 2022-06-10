@@ -51,7 +51,7 @@
       <Name>Cluster 4 WHISPER Electron  Density</Name>
       <Description>Cluster 4 WHISPER Electron  Density</Description>
       <Units>cm^-3</Units>
-      <UnitsConversion>1e-6&gt;m^-3</UnitsConversion>
+      <UnitsConversion>1e6&gt;m^-3</UnitsConversion>
       <Particle>
         <ParticleType>Electron</ParticleType>
         <Qualifier>Scalar</Qualifier>

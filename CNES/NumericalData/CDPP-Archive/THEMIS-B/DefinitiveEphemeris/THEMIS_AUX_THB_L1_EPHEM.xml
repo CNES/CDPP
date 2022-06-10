@@ -196,6 +196,7 @@ The data are definitive  with added science attitude determination using perigee
     <Parameter>
       <Name>THEMIS-B Drift term for spin rate</Name>
       <Description>Drift term for spin rate</Description>
+	  <Caveats>Applies to angular velocity (deg/sec), not spin period.</Caveats>
       <Units>deg/s^2</Units>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
@@ -229,6 +230,7 @@ The data are definitive  with added science attitude determination using perigee
     <Parameter>
       <Name>THEMIS-B Maximum absolute phase error</Name>
       <Description>Maximum absolute phase error between model and non-outlier sun crossing time</Description>
+	  <Caveats>Errors due to recognized BAU timing errors do not contribute to this quantity</Caveats>
       <Support>
         <Qualifier>Uncertainty</Qualifier>
         <SupportQuantity>Temporal</SupportQuantity>

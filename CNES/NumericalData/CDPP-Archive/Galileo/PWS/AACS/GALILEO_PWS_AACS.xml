@@ -51,6 +51,11 @@ If PI/coI are not part of the publication list, then we suggest to also acknowle
     <Parameter>
       <Name>GALILEO PWS Rotor Attitude Right Ascension</Name>
       <Description>GALILEO PWS Rotor Attitude Right Ascension in EME50 (Earth Mean Equatorial equinox of 1950)</Description>
+      <Caveats>The basic rotor coordinate system has its Z-axis aligned with the spin
+axis (positive in the opposite direction as the HGA) and its +Y-axis
+pointing outward from the spacecraft body along the magnetometer boom.
+X completes the right handed set. This coordinate system spins with the
+rotor at a period of approximately 19 seconds.</Caveats>	  
       <Units>°</Units>
       <UnitsConversion>0.0174532925&gt;rad</UnitsConversion>
       <Support>
