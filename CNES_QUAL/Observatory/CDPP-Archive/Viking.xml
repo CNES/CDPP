@@ -19,6 +19,7 @@ The Viking mission was devoted to the study of the acceleration processes of cha
     </Location>
     <OperatingSpan>
       <StartDate>1986-02-22T00:00:00Z</StartDate>
+	  <StopDate>1987-05-12T00:00:00Z</StopDate>
     </OperatingSpan>
   </Observatory>
 </Spase>

@@ -27,6 +27,7 @@ The ISEE-3 Project Scientist was T. T. von Rosenvinge, GSFC.</Description>
     </Location>
     <OperatingSpan>
       <StartDate>1978-08-12T00:00:00Z</StartDate>
+	  <StopDate>1987-01-23T00:00:00Z</StopDate>
     </OperatingSpan>
   </Observatory>
 </Spase>
