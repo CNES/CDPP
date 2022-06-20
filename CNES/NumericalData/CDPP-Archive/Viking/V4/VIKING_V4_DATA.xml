@@ -50,7 +50,8 @@ The data are indented per periods of 15 min. Inside these 15 min, the data are o
     </TemporalDescription>
     <ObservedRegion>Earth.Magnetosphere</ObservedRegion>
     <ObservedRegion>Earth.Magnetosphere.Polar</ObservedRegion>
-    <Parameter>
+    <ObservedRegion>Earth.NearSurface.Ionosphere</ObservedRegion>
+	<Parameter>
       <Name>VIKING V4 Electric field component parallel to B</Name>
       <Description>Electric field component parallel to B (magnetic field)</Description>
       <Units>mV/m</Units>

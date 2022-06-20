@@ -32,6 +32,7 @@
     </TemporalDescription>
     <ObservedRegion>Earth.Magnetosphere</ObservedRegion>
     <ObservedRegion>Earth.Magnetosphere.Polar</ObservedRegion>
+	<ObservedRegion>Earth.NearSurface.Ionosphere</ObservedRegion>
     <Parameter>
       <Name>VIKING V4 position in GEI</Name>
       <Description>Position of the spacecraft in GEI (Geocentric Equatorial Inertial) coordinate system</Description>
