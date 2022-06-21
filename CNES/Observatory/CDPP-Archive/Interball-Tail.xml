@@ -138,6 +138,7 @@ J.KLAS Inst. Atm. Phys. CAS, Prague, Czech. Republic - N.EISMONT, Yu.LISSAKOV IK
     </Location>
     <OperatingSpan>
       <StartDate>1995-08-03T00:00:00Z</StartDate>
+	  <StopDate>2000-10-16T00:00:00Z</StopDate>
     </OperatingSpan>
   </Observatory>
 </Spase>
