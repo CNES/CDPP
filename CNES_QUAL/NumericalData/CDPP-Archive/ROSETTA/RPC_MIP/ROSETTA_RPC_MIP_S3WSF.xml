@@ -79,6 +79,7 @@ Principal Investigator(s) : P. Henri (LPC2E/CNRS, Orléans, France)
     <Parameter>
       <Name>Electric Field Power</Name>
       <Description>Electric Field Power Spectrum (Active SDL mode)</Description>
+	  <Caveats>0dB = 0.6 microV*Hz^-0.5</Caveats>
       <Units>dB</Units>
       <Wave>
         <WaveType>PlasmaWaves</WaveType>

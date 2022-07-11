@@ -39,6 +39,7 @@ Principal Investigator(s) : P. Henri (LPC2E/CNRS, Orléans, France)
     <Parameter>
       <Name>Mean power in passive mode (LF part)</Name>
       <Description>Low Frequency Part : [7 - 224] KHz</Description>
+	  <Caveats>0 dB = 0.6 microV Hz^-0.5</Caveats>
       <Units>dB</Units>
       <Wave>
         <WaveType>PlasmaWaves</WaveType>
@@ -49,6 +50,7 @@ Principal Investigator(s) : P. Henri (LPC2E/CNRS, Orléans, France)
     <Parameter>
       <Name>Mean power in passive mode (HF part)</Name>
       <Description>High Frequency Part : [479 - 3584] KHz</Description>
+	  <Caveats>0 dB = 0.6 microV Hz^-0.5</Caveats>
       <Units>dB</Units>
       <Wave>
         <WaveType>PlasmaWaves</WaveType>
@@ -59,6 +61,7 @@ Principal Investigator(s) : P. Henri (LPC2E/CNRS, Orléans, France)
     <Parameter>
       <Name>Resonance power in survey mode</Name>
       <Description>Resonance power in survey mode</Description>
+	  <Caveats>0 dB = 0.6 microV Hz^-0.5</Caveats>
       <Units>dB</Units>
       <Wave>
         <WaveType>PlasmaWaves</WaveType>
