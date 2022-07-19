@@ -31,7 +31,7 @@ Recent indices which are not yet validated are provisional Indices and indicated
       <Format>Binary</Format>
     </AccessInformation>
     <ProcessingLevel>Calibrated</ProcessingLevel>
-    <InstrumentID>spase://CNES/Instrument/CDPP-Archive/Geomagnetic-Indices</InstrumentID>
+    <InstrumentID>spase://CNES/Instrument/CDPP-Archive/ISGI/Geomagnetic-Indices</InstrumentID>
     <MeasurementType>MagneticField</MeasurementType>
     <MeasurementType>ActivityIndex</MeasurementType>
     <TemporalDescription>
