@@ -5,7 +5,7 @@
     <ResourceID>spase://CNES/Instrument/CDPP-Archive/MMS-4/Fields/SCM</ResourceID>
     <ResourceHeader>
       <ResourceName>MMS 4 Search Coil Magnetometer</ResourceName>
-      <ReleaseDate>2022-07-08T11:31:47Z</ReleaseDate>
+      <ReleaseDate>2022-08-01T15:38:07Z</ReleaseDate>
       <Description>The tri-axial Search-Coil Magnetometer (SCM) belongs to the The FIELDS Instrument Suite on MMS. It provides the three magnetic components of the waves from 1 Hz to 6 kHz in particular in the key regions of the Earth's magnetosphere namely the subsolar region and the magnetotail.
 
 The SCM consists of a tri-axial set of magnetic sensors with its associated preamplifier box.
@@ -17,10 +17,6 @@ The SCM preamplifier is connected to the digital signal processor (DSP) which di
       </Contact>
       <Contact>
         <PersonID>spase://CNES/Person/CDPP-Archive/Olivier.Le.Contel</PersonID>
-        <Role>PrincipalInvestigator</Role>
-      </Contact>
-      <Contact>
-        <PersonID>spase://CNES/Person/CDPP-Archive/Laurent.Mirioni</PersonID>
         <Role>CoInvestigator</Role>
       </Contact>
       <Contact>
