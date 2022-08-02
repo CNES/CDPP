@@ -16,7 +16,7 @@ The informal file is a sequential ASCII file. It contains information about ROBE
       </Contact>
     </ResourceHeader>
     <AccessInformation>
-      <RepositoryID>spase://CNES/Repository/CDPP-Archive/REGARDS</RepositoryID>
+      <RepositoryID>spase://CNES/Repository/CDPP-Archive/REGARDS-CDPP</RepositoryID>
       <Availability>Online</Availability>
       <AccessURL>
         <Name>REGARDS</Name>

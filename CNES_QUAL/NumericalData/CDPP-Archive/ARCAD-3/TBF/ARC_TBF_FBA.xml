@@ -30,7 +30,7 @@ The reliability of the filter data (filter commutation) is given with the flag O
       </Contact>
     </ResourceHeader>
     <AccessInformation>
-      <RepositoryID>spase://CNES/Repository/CDPP-Archive/REGARDS</RepositoryID>
+      <RepositoryID>spase://CNES/Repository/CDPP-Archive/REGARDS-CDPP</RepositoryID>
       <Availability>Online</Availability>
       <AccessURL>
         <Name>REGARDS</Name>

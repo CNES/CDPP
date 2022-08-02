@@ -30,7 +30,7 @@ Concerning the ancillary data, for several sets, the orbit parameters can be equ
       </Contact>
     </ResourceHeader>
     <AccessInformation>
-      <RepositoryID>spase://CNES/Repository/CDPP-Archive/REGARDS</RepositoryID>
+      <RepositoryID>spase://CNES/Repository/CDPP-Archive/REGARDS-CDPP</RepositoryID>
       <Availability>Online</Availability>
       <AccessURL>
         <Name>REGARDS</Name>
