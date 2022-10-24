@@ -7,14 +7,14 @@
       <ResourceName>Magnetic Field</ResourceName>
       <DOI>https://doi.org/10.24400/802406/qm8g-n5w4</DOI>
       <ReleaseDate>2022-03-22T09:14:52Z</ReleaseDate>
-      <Description>The aim of the TRAC data set from the AUREOL-3 magnetometer is to measure the perturbations of the local geomagnetic fiels that result from the flow of Birkeland currents parallel to the field lines.
+      <Description>The aim of the TRAC data set from the AUREOL-3 magnetometer is to measure the perturbations of the local geomagnetic fields that result from the flow of Birkeland currents parallel to the field lines.
 The data period covers the interval from November 1981 to March 1986.
 Most data were produced during the 1981-1982 time period (the 1983-1986 time period covered only several orbits).
 The sampling rates of the TRAC outputs for various telemetry regimes are the following :
-    100 pts/s TMS4 ZAP1 10 ms 
-    12.5 pts/s TMS30 ZAP2 80 ms 
-    3 pts/s TMS120 ZAP3 330 ms
-    0.4 pts/s TMS960 ZAP4 2.5 s</Description>
+    100 pts/s TMS4 ZAP1 10 ms, 
+    12.5 pts/s TMS30 ZAP2 80 ms, 
+    3 pts/s TMS120 ZAP3 330 ms,
+    0.4 pts/s TMS960 ZAP4 2.5 s.</Description>
       <Contact>
         <PersonID>spase://CNES/Person/CDPP-Archive/Dominique.Lagoutte</PersonID>
         <Role>GeneralContact</Role>
