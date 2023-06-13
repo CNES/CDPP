@@ -20,7 +20,7 @@ Absolute flux density is calibrated using radio galaxy method (see Zaslavsky et 
 Caveat: Level 3 df data are computed with the following assumptions : (i) incoming wave properties do not change during a spacecraft rotation (~3 seconds)parameter set, (ii) radio sources are unpolarized (U=V=Q=0), (iii) galaxy radio emission is not subtracted, (iv) radio sources have an uniform brightness distribution, (v) Z antennas are not tilted</Description>
       <Acknowledgement>
         Data provided are publicly available. 
-If used in presentations or publications, please acknowledge Wind/Waves Investigation (K. Issautier and R.J. MacDowall).
+If used in presentations or publications, please acknowledge Wind/Waves Investigation (K. Issautier and K. Goetz).
 We recommend the data users to contact the Wind/Waves team early in their study. 
 For reporting purposes, we request bibliography information for any publication, etc., using these data. 
 Please send information on the use of this data to: K. Issautier (PI). 
@@ -32,7 +32,7 @@ The following paper should also be used to reference: Bougeret et al, Space Scie
         <Role>PrincipalInvestigator</Role>
       </Contact>
       <Contact>
-        <PersonID>spase://CNES/Person/CDPP-Archive/Robert.MacDowall</PersonID>
+        <PersonID>spase://CNES/Person/CDPP-Archive/Keith.Goetz</PersonID>
         <Role>PrincipalInvestigator</Role>
       </Contact>
       <Contact>

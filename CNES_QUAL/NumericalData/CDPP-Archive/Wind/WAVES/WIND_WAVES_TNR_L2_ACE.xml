@@ -24,7 +24,7 @@ If the cycle is in state ABCDE (event_state=2), then band B and D are ignored, w
         <Role>PrincipalInvestigator</Role>
       </Contact>
       <Contact>
-        <PersonID>spase://CNES/Person/CDPP-Archive/Robert.MacDowall</PersonID>
+        <PersonID>spase://CNES/Person/CDPP-Archive/Keith.Goetz</PersonID>
         <Role>PrincipalInvestigator</Role>
       </Contact>
       <Contact>
