@@ -25,6 +25,11 @@ Phobos 2 operated nominally throughout its cruise and Mars orbital insertion pha
         <PersonID>spase://CNES/Person/CDPP-Archive/CDPP.general.contact</PersonID>
         <Role>GeneralContact</Role>
       </Contact>
+      <InformationURL>
+        <Name>NSSDC Master Catalog</Name>
+        <URL>https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1988-059A</URL>
+        <Description>Information about the Phobos 2 spacecraft and the overall mission</Description>
+      </InformationURL>
     </ResourceHeader>
     <ObservatoryGroupID>spase://CNES/Observatory/CDPP-Archive/PHOBOS</ObservatoryGroupID>
     <Location>
