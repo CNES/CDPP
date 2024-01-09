@@ -4,7 +4,7 @@
   <DisplayData>
     <ResourceID>spase://CNES/DisplayData/CDPP-Archive/ARCAD-3/Isoprobe/ARC_ISO_DENSITE_PS</ResourceID>
     <ResourceHeader>
-      <ResourceName>TEST Jenkins ARCAD3 ISOPROBE electron density and temperature (PostScripts)</ResourceName>
+      <ResourceName>ARCAD3 ISOPROBE electron density and temperature (PostScripts)</ResourceName>
       <DOI>https://doi.org/10.24400/802406/d1ga-0z72</DOI>
       <ReleaseDate>2022-03-24T14:06:30Z</ReleaseDate>
       <Description>This data set contains plots of electron density and temperature from ARCAD-3 Isoprobe experiment.</Description>
