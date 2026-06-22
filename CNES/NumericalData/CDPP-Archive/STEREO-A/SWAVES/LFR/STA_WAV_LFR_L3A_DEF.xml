@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Spase xmlns="http://www.spase-group.org/data/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.spase-group.org/data/schema https://www.spase-group.org/data/schema/spase-2.7.1.xsd">
+  <Version>2.7.1</Version>
+  <MetadataRightsList>
+    <Rights>
+      <SchemeURI>https://spdx.org/licenses/</SchemeURI>
+      <RightsIdentifierScheme>SPDX</RightsIdentifierScheme>
+      <RightsIdentifier>CC0-1.0</RightsIdentifier>
+      <RightsURI>https://spdx.org/licenses/CC0-1.0.html</RightsURI>
+      <RightsName>Creative Commons Zero v1.0 Universal</RightsName>
+      <Note>
+          CC0 1.0 Universal is the Creative Commons license applicable to all publicly available SPASE metadata descriptions
+      </Note>
+    </Rights>
+  </MetadataRightsList>
+  <NumericalData>
+    <ResourceID>spase://CNES/NumericalData/CDPP-Archive/STEREO-A/SWAVES/LFR/STA_WAV_LFR_L3A_DEF</ResourceID>
+    <ResourceHeader>
+      <ResourceName>STEREO-A WAVES Low Frequency Receiver L3A DEF data</ResourceName>
+      <DOI>https://doi.org/10.24400/802406/xfp0-jpqh</DOI>
+      <ReleaseDate>2026-02-15T16:01:32Z</ReleaseDate>
+      <RevisionHistory>
+        <RevisionEvent>
+          <ReleaseDate>2025-10-15T09:00:00Z</ReleaseDate>
+          <Note> Initial release </Note>
+        </RevisionEvent>
+      </RevisionHistory>
+      <Description>This data set contains definitive goniopolarimetry parameters  (level 3A) derived from  STEREO-A WAVES LFR (Low Frequency Receiver, 2.5 - 160 kHz). 
+
+Goniopolarimetry data are computed asssuming: (i) incoming wave properties do not change over three successive antennas-pair measurements, (ii) signals measured by an antenna are the same on the two receiver channels, (iii) radio sources have an uniform brightness distribution.
+      </Description>
+      <Acknowledgement>
+        Data provided are publicly available. If used in presentations or publications, please acknowledge STEREO/Waves Investigation (M. Maksimovic and S. D. Bale, PIs).
+We recommend the data users to contact the STEREO/Waves team early in their study. For reporting purposes, we request bibliography information for any publication, etc., using these data. Please send information on the use of this data to: M. Maksimovic (PI).
+We suggest to add the following lines into the acknowledgments:
+The authors acknowledge CNES (Centre National d'Etudes Spatiales), CNRS (Centre National de la Recherche Scientifique), and Observatoire de Paris for support to the STEREO/Waves team and the CDPP (Centre de Données de la Physique des Plasmas) for the provision of the STEREO/Waves data.
+The following papers should also be used to reference:
+- Bougeret et al, Space Science Reviews, 2008, doi:10.1007/s11214-007-9298-8
+- Krupar et al., Journal of Geophysical Research, 2012, doi:10.1029/2011JA017333	  
+	  </Acknowledgement>
+      <PublicationInfo>
+        <Authors>Krupar, V., Q. N. Nguyen, X. Bonnin, B. Cecconi &amp; M. Maksimovic</Authors>
+        <PublicationDate>2022-01-01T00:00:00</PublicationDate>
+        <PublishedBy>CNES</PublishedBy>
+        <LandingPageURL>https://doi.org/10.24400/802406/xfp0-jpqh</LandingPageURL>
+      </PublicationInfo>
+      <Contact>
+        <PersonID>spase://CNES/Person/CDPP-Archive/Milan.Maksimovic</PersonID>
+        <Role>PrincipalInvestigator</Role>
+      </Contact>
+      <Contact>
+        <PersonID>spase://CNES/Person/CDPP-Archive/Stuart.Bale</PersonID>
+        <Role>PrincipalInvestigator</Role>
+      </Contact>
+      <Contact>
+        <PersonID>spase://CNES/Person/CDPP-Archive/Keith.Goetz</PersonID>
+        <Role>CoInvestigator</Role>
+      </Contact>
+      <Contact>
+        <PersonID>spase://CNES/Person/CDPP-Archive/Baptiste.Cecconi</PersonID>
+        <Role>CoInvestigator</Role>
+      </Contact>
+      <Contact>
+        <PersonID>spase://CNES/Person/CDPP-Archive/Vratislav.Krupar</PersonID>
+        <Role>Author</Role>
+      </Contact>
+      <Contact>
+        <PersonID>spase://CNES/Person/CDPP-Archive/Quynh-Nhu.Nguyen</PersonID>
+        <Role>DataProducer</Role>
+      </Contact>
+    </ResourceHeader>
+    <AccessInformation>
+      <RepositoryID>spase://CNES/Repository/CDPP-Archive/REGARDS-CDPP</RepositoryID>
+      <Availability>Online</Availability>
+      <AccessRights>Open</AccessRights>
+      <RightsList>
+        <Rights>
+          <SchemeURI>https://spdx.org/licenses/</SchemeURI>
+          <RightsIdentifierScheme>SPDX</RightsIdentifierScheme>
+          <RightsIdentifier>CC-BY-4.0</RightsIdentifier>
+          <RightsURI>https://spdx.org/licenses/CC-BY-4.0.html</RightsURI>
+          <RightsName>Creative Commons Attribution 4.0 International</RightsName>
+        </Rights>
+      </RightsList>
+      <AccessURL>
+        <Name>REGARDS</Name>
+        <URL>https://cdpp-archive.cnes.fr</URL>
+      </AccessURL>
+      <Format>CDF</Format>
+      <Encoding>None</Encoding>
+      <Acknowledgement>
+          Data provided are available under CC-BY licence. Any use of this dataset in presentations or publications require citation, including the dataset DOI, such as, e.g.: 
+Krupar, V., Q.N. Nguyen, X. Bonnin, B. Cecconi &amp; M. Maksimovic (2022). STEREO/Waves/LFR-HFR L3 DF Dataset (Version 1.0) [Dataset]. PADC. https://doi.org/10.25935/4TAK-5225
+
+The STEREO/Waves Investigation (M. Maksimovic and S. D. Bale, PIs) shall be acknowledged as follows:
+"The authors acknowledge CNES (Centre National d'Etudes Spatiales), CNRS (Centre National de la Recherche Scientifique), and Observatoire de Paris for support to the STEREO/Waves team, as well as the MASER (Measuring, Analyzing &amp; Simulating Emissions in the Radio range) repository and PADC (Paris Astronomical Data Centre) for the provision of the STEREO/Waves data."
+We recommend the data users to contact the STEREO/Waves team early in their study. For reporting purposes, we request bibliography information for any publication, etc., using these data. Please send information on the use of this data to: M. Maksimovic (PI).
+The following papers should also be used to reference:
+- Bougeret et al, Space Science Reviews, 2008, doi:10.1007/s11214-007-9298-8
+- Krupar et al., Journal of Geophysical Research, 2012, doi:10.1029/2011JA017333
+      </Acknowledgement>
+    </AccessInformation>
+    <ProcessingLevel>Calibrated</ProcessingLevel>
+    <ProviderProcessingLevel>3</ProviderProcessingLevel>
+    <InstrumentID>spase://CNES/Instrument/CDPP-Archive/STEREO-A/SWAVES</InstrumentID>
+    <MeasurementType>Waves</MeasurementType>
+    <MeasurementType>ElectricField</MeasurementType>
+    <TemporalDescription>
+      <TimeSpan>
+        <StartDate>2006-10-28T00:00:00.000Z</StartDate>
+        <RelativeStopDate>-P2M</RelativeStopDate>
+      </TimeSpan>
+    </TemporalDescription>
+    <Parameter>
+      <Name>Epoch (Time)</Name>
+      <Description>Epoch encoded as Terrestrial Time on rotating Earth geoid, ns since J2000</Description>
+      <Units>ns</Units>
+      <UnitsConversion>1.0e-9&gt;s</UnitsConversion>
+      <RenderingHints>
+        <DisplayType>TimeSeries</DisplayType>
+        <AxisLabel>epoch_lfr_radio_flux</AxisLabel>
+        <ScaleType>LinearScale</ScaleType>
+      </RenderingHints>
+      <ValidMin>2006-01-01T00:00:00.000000000</ValidMin>
+      <ValidMax>2099-12-31T23:59:59.999000000</ValidMax>
+      <FillValue>9999-12-31T23:59:59.999999999</FillValue>
+      <Support>
+        <SupportQuantity>Temporal</SupportQuantity>
+      </Support>
+    </Parameter>
+    <Parameter>
+      <Name>FREQUENCY</Name>
+      <Description>Frequency channel</Description>
+      <Units>Hz</Units>
+      <RenderingHints>
+        <AxisLabel>FREQUENCY</AxisLabel>
+        <ScaleType>LogScale</ScaleType>
+      </RenderingHints>
+      <Wave>
+        <WaveQuantity>Frequency</WaveQuantity>
+      </Wave>
+    </Parameter>
+    <Parameter>
+      <Name>BACKGROUND</Name>
+      <Description>1% receiver background of each antenna channel configuration</Description>
+      <Units>V^2/Hz</Units>
+      <RenderingHints>
+        <AxisLabel>BACKGROUND</AxisLabel>
+        <ScaleType>LogScale</ScaleType>
+      </RenderingHints>
+      <ValidMin>0.00e+00</ValidMin>
+      <ValidMax>1.00e+00</ValidMax>
+      <FillValue>-1.0e+31</FillValue>
+      <Support>
+        <SupportQuantity>Housekeeping</SupportQuantity>
+      </Support>
+    </Parameter>
+    <Parameter>
+      <Name>SENSOR_CONFIG</Name>
+      <Description>Dual channel receiver antenna configuration.
+00 (Off/Off)
+10 (+Ex/Off)
+20 (-Ey/Off)
+30 (Ex-Ey/Off)
+01 (Off/+Ez)
+02 (Off/+Ey)
+03 (Off/Ez-Ey)
+11 (+Ex/+Ez)
+12 (+Ex/-Ey)
+13 (+Ex/Ez-Ey)
+21 (-Ey/+Ez)
+31 (Ex-Ey/+Ez)
+-22 (-Ey/-Ey)
+-32 (Ex-Ey/-Ey)
+-23 (-Ey/Ez-Ey)
+-33 (Ex-Ey/Ez-Ey)</Description>
+      <RenderingHints>
+        <AxisLabel>SENSOR_CONFIG</AxisLabel>
+      </RenderingHints>
+      <ValidMin>-33</ValidMin>
+      <ValidMax>33</ValidMax>
+      <FillValue>-128</FillValue>
+      <Support>
+        <SupportQuantity>Housekeeping</SupportQuantity>
+      </Support>
+    </Parameter>
+    <Parameter>
+      <Name>TIMING</Name>
+      <Description>Temporal offset of each antenna channel configuration</Description>
+      <Units>s</Units>
+      <RenderingHints>
+        <AxisLabel>TIMING</AxisLabel>
+      </RenderingHints>
+      <ValidMin>-1.00e+02</ValidMin>
+      <ValidMax>1.00e+02</ValidMax>
+      <FillValue>-1.0e+31</FillValue>
+      <Support>
+        <SupportQuantity>Temporal</SupportQuantity>
+      </Support>
+    </Parameter>
+    <Parameter>
+      <Name>QUALITY_FLAG</Name>
+      <Description>High level information about the quality of the electric field measurements.
+All flags are encoded as follows:
+QUALITY_FLAG = 0, bad data
+QUALITY_FLAG = 1, known problems use at your own risk
+QUALITY_FLAG = 2, survey data, possibly not publication quality
+QUALITY_FLAG = 3, good for publication subject to PI approval
+QUALITY_FLAG = 4, Excellent data which has received special treatment</Description>
+      <RenderingHints>
+        <AxisLabel>QUALITY_FLAG</AxisLabel>
+        <ValueFormat>I3</ValueFormat>
+      </RenderingHints>
+      <ValidMin>0</ValidMin>
+      <ValidMax>4</ValidMax>
+      <FillValue>255</FillValue>
+      <Support>
+        <SupportQuantity>DataQuality</SupportQuantity>
+      </Support>
+    </Parameter>
+    <Parameter>
+      <Name>INTERPOL_FLAG</Name>
+      <Description>Flag that indicates if the current record is real or interpolated.
+All flags are encoded as follows:
+INTERPOL_FLAG = 0, record is real
+INTERPOL_FLAG = 1, record is interpolated</Description>
+      <RenderingHints>
+        <AxisLabel>INTERPOL_FLAG</AxisLabel>
+        <ValueFormat>I3</ValueFormat>
+        <ScaleType>LinearScale</ScaleType>
+      </RenderingHints>
+      <ValidMin>0</ValidMin>
+      <ValidMax>1</ValidMax>
+      <FillValue>255</FillValue>
+      <Support>
+        <SupportQuantity>Other</SupportQuantity>
+      </Support>
+    </Parameter>
+    <Parameter>
+      <Name>PSD_V2</Name>
+      <Description>Power spectral density before 1% background subtraction and antenna calibration. Suitable for analysis of weak signals.</Description>
+      <Units>V^2/Hz</Units>
+      <RenderingHints>
+        <AxisLabel>PSD_V2</AxisLabel>
+        <ValueFormat>E12.2</ValueFormat>
+        <ScaleType>LogScale</ScaleType>
+      </RenderingHints>
+      <ValidMin>0.00e+00</ValidMin>
+      <ValidMax>1.00e+00</ValidMax>
+      <FillValue>-1.0e+31</FillValue>
+      <Field>
+        <Qualifier>PowerSpectralDensity</Qualifier>
+        <FieldQuantity>Electromagnetic</FieldQuantity>
+        <FrequencyRange>
+          <Low>1</Low>
+          <High>16000000</High>
+          <Units>Hz</Units>
+        </FrequencyRange>
+      </Field>
+    </Parameter>
+    <Parameter>
+      <Name>PSD_FLUX</Name>
+      <Description>Power spectral density after 1% background subtraction and antenna calibration. Suitable for general investigation.</Description>
+      <Units>W/m^2/Hz</Units>
+      <RenderingHints>
+        <AxisLabel>PSD</AxisLabel>
+        <ValueFormat>E12.2</ValueFormat>
+        <ScaleType>LogScale</ScaleType>
+      </RenderingHints>
+      <ValidMin>0.00e+00</ValidMin>
+      <ValidMax>1.00e+00</ValidMax>
+      <FillValue>-1.0e+31</FillValue>
+      <Field>
+        <Qualifier>PowerSpectralDensity</Qualifier>
+        <FieldQuantity>Electromagnetic</FieldQuantity>
+        <FrequencyRange>
+          <Low>1</Low>
+          <High>16000000</High>
+          <Units>Hz</Units>
+        </FrequencyRange>
+      </Field>
+    </Parameter>
+    <Parameter>
+      <Name>PSD_SFU</Name>
+      <Description>Power spectral density after 1% background subtraction and antenna calibration in solar radio flux unit normalized to 1 au. Suitable for multi-spacecraft investigation.</Description>
+      <Units>SFU</Units>
+      <RenderingHints>
+        <AxisLabel>PSD</AxisLabel>
+        <ValueFormat>E12.2</ValueFormat>
+        <ScaleType>LogScale</ScaleType>
+      </RenderingHints>
+      <ValidMin>0.00e+00</ValidMin>
+      <ValidMax>1.00e+20</ValidMax>
+      <FillValue>-1.0e+31</FillValue>
+      <Field>
+        <Qualifier>PowerSpectralDensity</Qualifier>
+        <FieldQuantity>Electromagnetic</FieldQuantity>
+        <FrequencyRange>
+          <Low>1</Low>
+          <High>16000000</High>
+          <Units>Hz</Units>
+        </FrequencyRange>
+      </Field>
+    </Parameter>
+    <Parameter>
+      <Name>STOKES_I</Name>
+      <Description>Radio flux density.
+Details on polarization parameters can be found here: https://doi.org/10.1007/s11214-007-9255-6.</Description>
+      <Units>W/m^2/Hz</Units>
+      <RenderingHints>
+        <DisplayType>Spectrogram</DisplayType>
+        <AxisLabel>STOKES_I</AxisLabel>
+        <ValueFormat>E12.2</ValueFormat>
+        <ScaleType>LogScale</ScaleType>
+      </RenderingHints>
+      <ValidMin>0.00e+00</ValidMin>
+      <ValidMax>1.00e+00</ValidMax>
+      <FillValue>-1.0e+31</FillValue>
+      <Wave>
+        <WaveQuantity>StokesParameters</WaveQuantity>
+      </Wave>
+    </Parameter>
+    <Parameter>
+      <Name>STOKES_Q</Name>
+      <Description>Normalized linear polarization.
+Details on polarization parameters can be found here: https://doi.org/10.1007/s11214-007-9255-6.</Description>
+      <RenderingHints>
+        <DisplayType>Spectrogram</DisplayType>
+        <AxisLabel>STOKES_Q</AxisLabel>
+        <ValueFormat>E12.2</ValueFormat>
+        <ScaleType>LinearScale</ScaleType>
+      </RenderingHints>
+      <ValidMin>-1.00e+01</ValidMin>
+      <ValidMax>1.00e+01</ValidMax>
+      <FillValue>-1.0e+31</FillValue>
+      <Wave>
+        <WaveQuantity>StokesParameters</WaveQuantity>
+      </Wave>
+    </Parameter>
+    <Parameter>
+      <Name>STOKES_U</Name>
+      <Description>Normalized linear polarization.
+Details on polarization parameters can be found here: https://doi.org/10.1007/s11214-007-9255-6.</Description>
+      <RenderingHints>
+        <DisplayType>Spectrogram</DisplayType>
+        <AxisLabel>STOKES_U</AxisLabel>
+        <ValueFormat>E12.2</ValueFormat>
+        <ScaleType>LinearScale</ScaleType>
+      </RenderingHints>
+      <ValidMin>-1.00e+01</ValidMin>
+      <ValidMax>1.00e+01</ValidMax>
+      <FillValue>-1.0e+31</FillValue>
+      <Wave>
+        <WaveQuantity>StokesParameters</WaveQuantity>
+      </Wave>
+    </Parameter>
+    <Parameter>
+      <Name>STOKES_V</Name>
+      <Description>Normalized circular polarization.
+Details on polarization parameters can be found here: https://doi.org/10.1007/s11214-007-9255-6.</Description>
+      <RenderingHints>
+        <DisplayType>Spectrogram</DisplayType>
+        <AxisLabel>STOKES_V</AxisLabel>
+        <ValueFormat>E12.2</ValueFormat>
+        <ScaleType>LinearScale</ScaleType>
+      </RenderingHints>
+      <ValidMin>-1.00e+01</ValidMin>
+      <ValidMax>1.00e+01</ValidMax>
+      <FillValue>-1.0e+31</FillValue>
+      <Wave>
+        <WaveQuantity>StokesParameters</WaveQuantity>
+      </Wave>
+    </Parameter>
+    <Parameter>
+      <Name>SOURCE_SIZE</Name>
+      <Description>The angular half aperture of the source as seen by a spacecraft (uniform profile).
+Based on https://doi.org/10.1029/2011JA017333.</Description>
+      <Units>°</Units>
+      <UnitsConversion>0.0174532925&gt;rad</UnitsConversion>
+      <RenderingHints>
+        <DisplayType>Spectrogram</DisplayType>
+        <AxisLabel>SOURCE_SIZE</AxisLabel>
+        <ValueFormat>E12.2</ValueFormat>
+        <ScaleType>LinearScale</ScaleType>
+      </RenderingHints>
+      <ValidMin>0.00e+00</ValidMin>
+      <ValidMax>9.00e+01</ValidMax>
+      <FillValue>-1.0e+31</FillValue>
+      <Support>
+        <SupportQuantity>Other</SupportQuantity>
+      </Support>
+    </Parameter>
+    <Parameter>
+      <Name>WAVE_COLATITUDE_RTN</Name>
+      <Description>Wave vector colatitude in the Radial-Tangential-Normal (RTN) system.
+X axis points from the spacecraft center to Sun, and the Y axis is the cross product of the solar rotational axis and X, and lies in the solar equatorial plane (towards the West limb).</Description>
+      <Units>°</Units>
+      <UnitsConversion>0.0174532925&gt;rad</UnitsConversion>
+      <CoordinateSystem>
+        <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
+        <CoordinateSystemName>RTN</CoordinateSystemName>
+      </CoordinateSystem>
+      <RenderingHints>
+        <DisplayType>Spectrogram</DisplayType>
+        <AxisLabel>WAVE_COLATITUDE_RTN</AxisLabel>
+        <ValueFormat>E12.2</ValueFormat>
+        <ScaleType>LinearScale</ScaleType>
+      </RenderingHints>
+      <ValidMin>0.00e+00</ValidMin>
+      <ValidMax>1.80e+02</ValidMax>
+      <FillValue>-1.0e+31</FillValue>
+      <Wave>
+        <Qualifier>DirectionAngle</Qualifier>
+        <WaveQuantity>StokesParameters</WaveQuantity>
+      </Wave>
+    </Parameter>
+    <Parameter>
+      <Name>WAVE_AZIMUTH_RTN</Name>
+      <Description>Wave vector azimuth in the Radial-Tangential-Normal (RTN) system.
+X axis points from the spacecraft center to Sun, and the Y axis is the cross product of the solar rotational axis and X, and lies in the solar equatorial plane (towards the West limb).</Description>
+      <Units>°</Units>
+      <UnitsConversion>0.0174532925&gt;rad</UnitsConversion>
+      <CoordinateSystem>
+        <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
+        <CoordinateSystemName>RTN</CoordinateSystemName>
+      </CoordinateSystem>
+      <RenderingHints>
+        <DisplayType>Spectrogram</DisplayType>
+        <AxisLabel>Azimuth [RTN]</AxisLabel>
+        <ValueFormat>E12.2</ValueFormat>
+        <ScaleType>LinearScale</ScaleType>
+      </RenderingHints>
+      <ValidMin>-9.00e+01</ValidMin>
+      <ValidMax>9.00e+01</ValidMax>
+      <FillValue>-1.0e+31</FillValue>
+      <Wave>
+        <Qualifier>DirectionAngle</Qualifier>
+        <WaveQuantity>StokesParameters</WaveQuantity>
+      </Wave>
+    </Parameter>
+    <Parameter>
+      <Name>WAVE_COLATITUDE_HCI</Name>
+      <Description>Wave vector colatitude in the Heliocentric Inertial (HCI) system.
+Z is the solar north rotational axis, and X is the solar ascending node on the J2000 ecliptic.</Description>
+      <Units>°</Units>
+      <UnitsConversion>0.0174532925&gt;rad</UnitsConversion>
+      <CoordinateSystem>
+        <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
+        <CoordinateSystemName>HCI</CoordinateSystemName>
+      </CoordinateSystem>
+      <RenderingHints>
+        <DisplayType>Spectrogram</DisplayType>
+        <AxisLabel>Colatitude [HCI]</AxisLabel>
+        <ValueFormat>E12.2</ValueFormat>
+        <ScaleType>LinearScale</ScaleType>
+      </RenderingHints>
+      <ValidMin>0.00e+00</ValidMin>
+      <ValidMax>1.80e+02</ValidMax>
+      <FillValue>-1.0e+31</FillValue>
+      <Wave>
+        <Qualifier>DirectionAngle</Qualifier>
+        <WaveQuantity>StokesParameters</WaveQuantity>
+      </Wave>
+    </Parameter>
+    <Parameter>
+      <Name>WAVE_AZIMUTH_HCI</Name>
+      <Description>Wave vector azimuth in the Heliocentric Inertial (HCI) system.
+Z is the solar north rotational axis, and X is the solar ascending node on the J2000 ecliptic.</Description>
+      <Units>°</Units>
+      <UnitsConversion>0.0174532925&gt;rad</UnitsConversion>
+      <CoordinateSystem>
+        <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
+        <CoordinateSystemName>HCI</CoordinateSystemName>
+      </CoordinateSystem>
+      <RenderingHints>
+        <DisplayType>Spectrogram</DisplayType>
+        <AxisLabel>Azimuth [HCI]</AxisLabel>
+        <ValueFormat>E12.2</ValueFormat>
+        <ScaleType>LinearScale</ScaleType>
+      </RenderingHints>
+      <ValidMin>-9.00e+01</ValidMin>
+      <ValidMax>9.00e+01</ValidMax>
+      <FillValue>-1.0e+31</FillValue>
+      <Wave>
+        <Qualifier>DirectionAngle</Qualifier>
+        <WaveQuantity>StokesParameters</WaveQuantity>
+      </Wave>
+    </Parameter>
+    <Parameter>
+      <Name>WAVE_COLATITUDE_HEE</Name>
+      <Description>Wave vector colatitude in the Heliocentric Earth Ecliptic (HEE) system.
+X is the Sun-Earth line, and Z is the north pole for the ecliptic of date.</Description>
+      <Units>°</Units>
+      <UnitsConversion>0.0174532925&gt;rad</UnitsConversion>
+      <CoordinateSystem>
+        <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
+        <CoordinateSystemName>HEE</CoordinateSystemName>
+      </CoordinateSystem>
+      <RenderingHints>
+        <DisplayType>Spectrogram</DisplayType>
+        <AxisLabel>Colatitude [HEE]</AxisLabel>
+        <ValueFormat>E12.2</ValueFormat>
+        <ScaleType>LinearScale</ScaleType>
+      </RenderingHints>
+      <ValidMin>0.00e+00</ValidMin>
+      <ValidMax>1.80e+02</ValidMax>
+      <FillValue>-1.0e+31</FillValue>
+      <Wave>
+        <Qualifier>DirectionAngle</Qualifier>
+        <WaveQuantity>StokesParameters</WaveQuantity>
+      </Wave>
+    </Parameter>
+    <Parameter>
+      <Name>WAVE_AZIMUTH_HEE</Name>
+      <Description>Wave vector azimuth in the Heliocentric Earth Ecliptic (HEE) system.
+X is the Sun-Earth line, and Z is the north pole for the ecliptic of date.</Description>
+      <Units>°</Units>
+      <UnitsConversion>0.0174532925&gt;rad</UnitsConversion>
+      <CoordinateSystem>
+        <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
+        <CoordinateSystemName>HEE</CoordinateSystemName>
+      </CoordinateSystem>
+      <RenderingHints>
+        <DisplayType>Spectrogram</DisplayType>
+        <AxisLabel>Azimuth [HEE]</AxisLabel>
+        <ValueFormat>E12.2</ValueFormat>
+        <ScaleType>LinearScale</ScaleType>
+      </RenderingHints>
+      <ValidMin>-9.00e+01</ValidMin>
+      <ValidMax>9.00e+01</ValidMax>
+      <FillValue>-1.0e+31</FillValue>
+      <Wave>
+        <Qualifier>DirectionAngle</Qualifier>
+        <WaveQuantity>StokesParameters</WaveQuantity>
+      </Wave>
+    </Parameter>
+    <Parameter>
+      <Name>WAVE_COLATITUDE_HEEQ</Name>
+      <Description>Wave vector colatitude in the Heliocentric Earth Equatorial (HEEQ) system.
+Z is the solar rotation axis, and X is in the plane containing the Z axis and Earth, at the intersection of the solar central meridian, and the heliographic equator. When converted to longitude and latitude, this is known as Stonyhurst heliographic coordinates.</Description>
+      <Units>°</Units>
+      <UnitsConversion>0.0174532925&gt;rad</UnitsConversion>
+      <CoordinateSystem>
+        <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
+        <CoordinateSystemName>HEEQ</CoordinateSystemName>
+      </CoordinateSystem>
+      <RenderingHints>
+        <DisplayType>Spectrogram</DisplayType>
+        <AxisLabel>Colatitude [HEEQ]</AxisLabel>
+        <ValueFormat>E12.2</ValueFormat>
+        <ScaleType>LinearScale</ScaleType>
+      </RenderingHints>
+      <ValidMin>0.00e+00</ValidMin>
+      <ValidMax>1.80e+02</ValidMax>
+      <FillValue>-1.0e+31</FillValue>
+      <Wave>
+        <Qualifier>DirectionAngle</Qualifier>
+        <WaveQuantity>StokesParameters</WaveQuantity>
+      </Wave>
+    </Parameter>
+    <Parameter>
+      <Name>WAVE_AZIMUTH_HEEQ</Name>
+      <Description>Wave vector azimuth in the Heliocentric Earth Equatorial (HEEQ) system.
+Z is the solar rotation axis, and X is in the plane containing the Z axis and Earth, at the intersection of the solar central meridian, and the heliographic equator. When converted to longitude and latitude, this is known as Stonyhurst heliographic coordinates.</Description>
+      <Units>°</Units>
+      <UnitsConversion>0.0174532925&gt;rad</UnitsConversion>
+      <CoordinateSystem>
+        <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
+        <CoordinateSystemName>HEEQ</CoordinateSystemName>
+      </CoordinateSystem>
+      <RenderingHints>
+        <DisplayType>Spectrogram</DisplayType>
+        <AxisLabel>Azimuth [HEEQ]</AxisLabel>
+        <ValueFormat>E12.2</ValueFormat>
+        <ScaleType>LinearScale</ScaleType>
+      </RenderingHints>
+      <ValidMin>-9.00e+01</ValidMin>
+      <ValidMax>9.00e+01</ValidMax>
+      <FillValue>-1.0e+31</FillValue>
+      <Wave>
+        <Qualifier>DirectionAngle</Qualifier>
+        <WaveQuantity>StokesParameters</WaveQuantity>
+      </Wave>
+    </Parameter>
+    <Parameter>
+      <Name>SC_POS_HCI</Name>
+      <Description>STEREO spacecraft position in the Heliocentric Inertial (HCI) system in km.
+Also called Ecliptic J2000. Z is the solar north rotational axis, and X is the solar ascending node on the J2000 ecliptic.</Description>
+      <Units>km</Units>
+      <UnitsConversion>1e3&gt;m</UnitsConversion>
+      <CoordinateSystem>
+        <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
+        <CoordinateSystemName>HCI</CoordinateSystemName>
+      </CoordinateSystem>
+      <RenderingHints>
+        <DisplayType>TimeSeries</DisplayType>
+        <AxisLabel>SC_POS_HCI</AxisLabel>
+        <ValueFormat>E12.2</ValueFormat>
+        <ScaleType>LinearScale</ScaleType>
+      </RenderingHints>
+      <ValidMin>-3.00e+08</ValidMin>
+      <ValidMax>3.00e+08</ValidMax>
+      <FillValue>-1.0e+31</FillValue>
+      <Support>
+        <Qualifier>Vector</Qualifier>
+        <SupportQuantity>Positional</SupportQuantity>
+      </Support>
+    </Parameter>
+    <Parameter>
+      <Name>SC_POS_HEE</Name>
+      <Description>STEREO spacecraft position in the Heliocentric Earth Ecliptic (HEE) system in km.
+X is the Sun-Earth line, and Z is the north pole for the ecliptic of date.</Description>
+      <Units>km</Units>
+      <UnitsConversion>1e3&gt;m</UnitsConversion>
+      <CoordinateSystem>
+        <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
+        <CoordinateSystemName>HEE</CoordinateSystemName>
+      </CoordinateSystem>
+      <RenderingHints>
+        <DisplayType>TimeSeries</DisplayType>
+        <AxisLabel>SC_POS_HEE</AxisLabel>
+        <ValueFormat>E12.2</ValueFormat>
+        <ScaleType>LinearScale</ScaleType>
+      </RenderingHints>
+      <ValidMin>-3.00e+08</ValidMin>
+      <ValidMax>3.00e+08</ValidMax>
+      <FillValue>-1.0e+31</FillValue>
+      <Support>
+        <Qualifier>Vector</Qualifier>
+        <SupportQuantity>Positional</SupportQuantity>
+      </Support>
+    </Parameter>
+    <Parameter>
+      <Name>SC_POS_HEEQ</Name>
+      <Description>STEREO spacecraft position in the Heliocentric Earth Equatorial (HEEQ) system in km.</Description>
+      <Units>km</Units>
+      <UnitsConversion>1e3&gt;m</UnitsConversion>
+      <CoordinateSystem>
+        <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
+        <CoordinateSystemName>HEEQ</CoordinateSystemName>
+      </CoordinateSystem>
+      <RenderingHints>
+        <DisplayType>TimeSeries</DisplayType>
+        <AxisLabel>SC_POS_HEEQ</AxisLabel>
+        <ValueFormat>E12.2</ValueFormat>
+        <ScaleType>LinearScale</ScaleType>
+      </RenderingHints>
+      <ValidMin>-3.00e+08</ValidMin>
+      <ValidMax>3.00e+08</ValidMax>
+      <FillValue>-1.0e+31</FillValue>
+      <Support>
+        <Qualifier>Vector</Qualifier>
+        <SupportQuantity>Positional</SupportQuantity>
+      </Support>
+    </Parameter>
+  </NumericalData>
+</Spase>
